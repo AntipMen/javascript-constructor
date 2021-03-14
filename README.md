@@ -1,7 +1,7 @@
 # javascript-constructor
 
-Project website constructor in pure JavaScript.
-For style I use bootstrap and my own styles.
+Project website constructor in clear JavaScript.
+For style I've used bootstrap and my own styles.
 
 OOP was applied in practice and principles of solid. Deploy of the application to the Farbase hosting.
 
